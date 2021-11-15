@@ -1,2 +1,2 @@
 # .github
-Hold additional org settings and documentations
+Organizations readme can be found inside `profile` folder
